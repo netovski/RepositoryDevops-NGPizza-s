@@ -3,7 +3,7 @@
 
 > Status do Projeto: Em Desenvolvimento
 
-[ESTUDO DE CASO - ngpIZZA'S](https://user-images.githubusercontent.com/128197326/229000155-edd61709-bb34-4ff5-ab5a-287aac708e3c.png)
+![imagem][ESTUDO DE CASO - ngpIZZA'S](https://user-images.githubusercontent.com/128197326/229000155-edd61709-bb34-4ff5-ab5a-287aac708e3c.png)
 
   ## Índice
 
