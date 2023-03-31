@@ -43,7 +43,7 @@ Esse projeto tem o intuito de implementar as praticas do Devops na empresa de de
 
   ## Autores
 
-  | [Carlos Alberto Gomediano Neto] (https://github.com/netovski) | [Gabriel Vinicius de Carvalho Silva] (https://github.com/bnegaao2023)
+  | [Carlos Alberto Gomediano Neto](https://github.com/netovski) | [Gabriel Vinicius de Carvalho Silva](https://github.com/bnegaao2023)
   | :---: | :---: |
   
   ## Licença
